@@ -9,5 +9,3 @@ Exactly
 3. Send (push) locat repasitory to remote rep.
 4. Make changes with other laptop
 5. Pull (pull) actuality status from remote rep.
-
-Success
